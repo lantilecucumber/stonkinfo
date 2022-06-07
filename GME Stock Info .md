@@ -1,4 +1,8 @@
-# DRS Numbers
+# Information regarding the GME Stock
+
+Here, the most important information directly regarding the stock is gathered. More detailed information can be found for example in the official filings GameStop has published/submitted to the SEC: https://investor.gamestop.com/sec-filings
+
+## DRS Numbers
 
 * January 29, 2022: **8.9 million**  
     Percentage of outstanding common shares: 8.9 / 75.9 = **11.7%**  
