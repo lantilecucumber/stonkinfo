@@ -1,10 +1,15 @@
 # Concepts and Terms Explained
 
-### Utilization
+## Utilization
 
-Utilization := Number of shares borrowed / Number of shares available to borrow
+*Utilization := Number of shares borrowed / Number of shares available to borrow*
 
 Note that utilization data from a single data vendor might not be complete/precise. This is because not all brokers, banks, etc. that lend out shares have necessarily reported their numbers to the data vendor.
+
+#### Example:
+Imagine, from Xxx outstanding shares of a stock, 20 shares are available to borrow. If now 10 have been borrowed, then the utilization is 50%. This number does not depend on the number of outstanding shares.
+
+#### Explanations from the Internet:
 
 "Utilization is defined as loaned shares divided by available shares in the securities lending market, expressed as a percentage."  
 "Generally, Utilization is the ratio of demand to supply. For example, Apple Inc. (AAPL) may have utilization of less than 1% because the stock has vast availability relative to the demand to borrow shares for shorting. Roku Inc. (ROKU) may have utilization above 90% because of higher demand to short shares as compared to the number of available shares."  
