@@ -8,6 +8,8 @@ This repository contains facts about the GME stock, as well as explanations of c
     Explanations of concepts and terms from the finance world that might be of interest to fellow apes and apettes.
 * [Information regarding the GME Stock](https://github.com/lantilecucumber/stonkinfo/blob/main/GME%20Stock%20Info%20.md)  
     Currently only officially reported DRS numbers, but other data like revenue numbers would fit here well (feel free to provide, see *Contributing* below). 
+* [Links](https://github.com/lantilecucumber/stonkinfo/blob/main/Links%20.md)  
+    Links to officially reported data, filings, ... (quite empty still, please help filling it with life).
 
 # Aims
 * Provide a place to gather information regarding the stonk in a structured way.
